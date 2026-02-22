@@ -16,7 +16,7 @@ Welcome to the digital headquarters of **Dr. Anthony Onoja**. This is a dedicate
 ## 📜 Latest Chronicles
 *Selected essays and political analysis.*
 > * [Jacob’s Meal and the Price of the Birthright](./post1)
-> * [When a Man Is Left Alone](./when_a_man_is_left_alone)
+> * [When a Man Is Left Alone](./post2)
 
 > ### [Why Nigeria’s Future Depends on Conscious Citizenship](./post1)
 > *An analysis of the spiritual and civic shift required for a new era.*
@@ -24,7 +24,7 @@ Welcome to the digital headquarters of **Dr. Anthony Onoja**. This is a dedicate
 > ### [Faith in the Midst of Religious Rot](./post2)
 > *Navigating spiritual integrity in a landscape of political turbulence.*
 > * [Jacob’s Meal and the Price of the Birthright](./post1)
-> * [When a Man Is Left Alone](./when_a_man_is_left_alone)
+> * [When a Man Is Left Alone](./post2)
 
 > ### [The Artisan's Path to Higher Consciousness](./post3)
 > *Connecting our heritage to our future growth.*
