@@ -1,15 +1,11 @@
 title: CraftChronicles
 author: Dr. Anthony Onoja
 description: Faith, Politics, and African Consciousness.
-theme: jekyll-theme-midnight
-show_downloads: false
-
-# This tells GitHub your site is in the /CraftChronicles folder
-baseurl: "/CraftChronicles"
-url: "https://donmaston09.github.io"
-
-# Remove the leading slash so it stays within your folder
-logo: assets/craft_chronicles.png
-
+theme: jekyll-theme-midnight # Or 'jekyll-theme-hacker' for a more 'Intelligence Report' feel
+google_analytics: # You can add a tracking ID later
+show_downloads: false # This removes the 'Download on GitHub' buttons which look unprofessional for a blog
 header_pages:
+
   - index.md
+# Add this line below to point to your image
+logo: /assets/craft_chronicles.png
