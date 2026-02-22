@@ -1,6 +1,9 @@
 ---
-![CraftChronicles Banner](/assets/banner.png)
+layout: default
+title: Home
 ---
+
+![CraftChronicles Banner](https://donmaston09.github.io/CraftChronicles/assets/banner.png)
 
 # 🌍 CraftChronicles
 ### *The intersection of Faith, Politics, and African Consciousness*
@@ -15,19 +18,15 @@ Welcome to the digital headquarters of **Dr. Anthony Onoja**. This is a dedicate
 
 ## 📜 Latest Chronicles
 *Selected essays and political analysis.*
-> * [Jacob’s Meal and the Price of the Birthright](./post1)
-> * [When a Man Is Left Alone](./post2)
 
-> ### [Why Nigeria’s Future Depends on Conscious Citizenship](./post1)
-> *An analysis of the spiritual and civic shift required for a new era.*
+### [When a Man Is Left Alone](./post2)
+*A reflection on the solitude of Peniel and the test of a man's foundation.*
 
-> ### [Faith in the Midst of Religious Rot](./post2)
-> *Navigating spiritual integrity in a landscape of political turbulence.*
-> * [Jacob’s Meal and the Price of the Birthright](./post1)
-> * [When a Man Is Left Alone](./post2)
+### [Jacob’s Meal and the Price of the Birthright](./post1)
+*An analysis of the spiritual and civic shift required for a new era.*
 
-> ### [The Artisan's Path to Higher Consciousness](./post3)
-> *Connecting our heritage to our future growth.*
+### [The Artisan's Path to Higher Consciousness](./post3)
+*Connecting our heritage to our future growth.*
 
 ---
 
