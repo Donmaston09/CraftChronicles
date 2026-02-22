@@ -1,5 +1,5 @@
 ---
-![Header Image](assets/your-image.jpg)
+![Header Image](assets/craft_chronicles.png)
 ---
 
 # 🌍 CraftChronicles
