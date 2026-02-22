@@ -1,6 +1,5 @@
 ---
-layout: default
-title: Home
+![Header Image](assets/your-image.jpg)
 ---
 
 # 🌍 CraftChronicles
