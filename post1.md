@@ -7,7 +7,7 @@ author: "Dr. Anthony Onoja"
 # Jacob’s Meal and the Price of the Birthright
 **By Dr. Anthony Onoja**
 
-![Jacob's Meal](https://donmaston09.github.io/CraftChronicles/assets/birthright.jpg)
+![Jacob's Meal](https://donmaston09.github.io/CraftChronicles/assets/birthright.png)
 
 ### The Blunt Truth
 Today I want to speak to you bluntly. You may not enjoy reading this, and that is exactly why I must write it.
