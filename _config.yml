@@ -4,12 +4,12 @@ description: Faith, Politics, and African Consciousness.
 theme: jekyll-theme-midnight
 show_downloads: false
 
-# This tells GitHub your site is in the /CraftChronicles folder
+# Crucial for your subfolder setup
 baseurl: "/CraftChronicles"
 url: "https://donmaston09.github.io"
 
-# Remove the leading slash so it stays within your folder
-logo: assets/banner.png
+# This looks for the image inside your assets folder
+logo: /assets/banner.png
 
 header_pages:
   - index.md
