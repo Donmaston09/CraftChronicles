@@ -21,6 +21,7 @@ Welcome to the digital headquarters of **Dr. Anthony Onoja**. This is a dedicate
 
 > ### [Faith in the Midst of Religious Rot](./post2)
 > *Navigating spiritual integrity in a landscape of political turbulence.*
+> * [Jacob’s Meal and the Price of the Birthright](./post1)
 
 > ### [The Artisan's Path to Higher Consciousness](./post3)
 > *Connecting our heritage to our future growth.*
