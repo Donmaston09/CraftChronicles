@@ -1,5 +1,5 @@
 ---
-![CraftChronicles Banner](assets/banner.png)
+![CraftChronicles Banner](https://donmaston09.github.io/CraftChronicles/assets/banner.png)
 ---
 
 # 🌍 CraftChronicles
