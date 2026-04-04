@@ -25,7 +25,7 @@ Welcome to the digital headquarters of **Dr. Anthony Onoja**. This is a dedicate
 ### [Jacob’s Meal and the Price of the Birthright](./post1)
 *An analysis of the spiritual and civic shift required for a new era.*
 
-### [The Artisan's Path to Higher Consciousness](./post3)
+### [How to Speak](./post3)
 *Connecting our heritage to our future growth.*
 
 ---
