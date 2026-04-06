@@ -19,6 +19,9 @@ Welcome to the digital headquarters of **Dr. Anthony Onoja**. This is a dedicate
 ## 📜 Latest Chronicles
 *Selected essays and political analysis.*
 
+### [Life of an Outlier](./post5)
+*Understanding why outliers become targets and how to navigate family betrayal, entitlement culture, and societal challenges.*
+
 ### [The Spiritual Market Where Window Shopping Is Not Allowed](./post4)
 *A unique exploration of a spiritual marketplace where every transaction demands commitment.*
 
