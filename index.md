@@ -19,6 +19,9 @@ Welcome to the digital headquarters of **Dr. Anthony Onoja**. This is a dedicate
 ## 📜 Latest Chronicles
 *Selected essays and political analysis.*
 
+### [When the Head Is Bruised and Under Attack](./post6)
+*Understanding why leadership bears the crown of thorns and the burden of collective survival.*
+
 ### [Life of an Outlier](./post5)
 *Understanding why outliers become targets and how to navigate family betrayal, entitlement culture, and societal challenges.*
 
