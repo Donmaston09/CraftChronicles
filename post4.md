@@ -8,7 +8,7 @@ description: "A prophetic unveiling of the unseen marketplace where every soul i
 # The Spiritual Market Where Window Shopping Is Not Allowed
 **By Dr. Anthony Onoja**
 
-![How to Speak](https://donmaston09.github.io/CraftChronicles/assets/spiritual_market.png)
+![Spiritual Market Artwork](https://donmaston09.github.io/CraftChronicles/assets/spiritual_market.png)
 
 > “No man can serve two masters: for either he will hate the one and love the other; or else he will hold to the one and despise the other. Ye cannot serve God and mammon.” — Matthew 6:24
 
