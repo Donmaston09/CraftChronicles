@@ -19,6 +19,10 @@ Welcome to the digital headquarters of **Dr. Anthony Onoja**. This is a dedicate
 ## 📜 Latest Chronicles
 *Selected essays and political analysis.*
 
+### [Engage the Enemy From Destiny to Pray Yourself into Destiny](./post7)
+*Understanding why you need to engage the enemy from destiny to pray yourself into destiny*
+
+
 ### [When the Head Is Bruised and Under Attack](./post6)
 *Understanding why leadership bears the crown of thorns and the burden of collective survival.*
 
