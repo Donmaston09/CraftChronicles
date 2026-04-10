@@ -10,7 +10,7 @@ title: Home
 
 ---
 
-Welcome to the digital headquarters of **Dr. Anthony Onoja**. This is a dedicated space for deep-dives into the stories that shape our reality—moving beyond the noise of social media into the heart of what truly matters.
+Welcome to the digital headquarters of **Dr. Anthony Onoja**. This is a dedicated space for deep dives into the stories that shape our reality—moving beyond the noise of social media into the heart of what truly matters.
 
 [📖 Explore the Archives](#latest-chronicles) | [🛡️ Join the Inner Circle](#the-inner-circle)
 
@@ -19,7 +19,11 @@ Welcome to the digital headquarters of **Dr. Anthony Onoja**. This is a dedicate
 ## 📜 Latest Chronicles
 *Selected essays and political analysis.*
 
-### [Engage the Enemy From Destiny to Pray Yourself into Destiny](./post7)
+### [Fight Alpha Battles with an Omega Mentality](./post8)
+*Understand what it truly means to fight your Alpha battles from already concluded Omega victories.*
+
+
+### [Engage the Enemy From Destiny to Pray Yourself into Destiny](./post_7)
 *Understanding why you need to engage the enemy from destiny to pray yourself into destiny*
 
 
