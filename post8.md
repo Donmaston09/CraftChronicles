@@ -7,7 +7,7 @@ author: "Dr. Anthony Onoja"
 # Fight Alpha Battles with an Omega Mentality
 **By Dr. Anthony Onoja**
 
-![Fight Alpha Battles with an Omega Mentality](https://donmaston09.github.io/CraftChronicles/assets/fight-alpha-battles-with-an-omega-mentality.png)
+![Fight Alpha Battles with an Omega Mentality](https://donmaston09.github.io/CraftChronicles/assets/alpha_battles_from_omega.png)
 
 “But they that wait upon the LORD shall renew their strength; they shall mount up with wings as eagles; they shall run, and not be weary; and they shall walk, and not faint.” — Isaiah 40:31
 
@@ -15,7 +15,7 @@ One of the greatest mysteries I have discovered in recent times is that you are 
 
 We are living in perilous times, a season marked by turbulence and uncertainty. We hear of wars and rumours of wars across nations such as Ukraine, Israel, the United States, and Iran. The world grows dimmer by the day, and peace appears to elude humanity. Yet what many fail to understand is that what manifests in the physical is only a reflection of what has already taken shape in the spiritual. Nothing begins here. Everything begins there. The physical world is merely an echo, a stage upon which unseen decisions are revealed. The events we witness on the global stage are not random occurrences. They are manifestations of deeper realities rooted in the unseen realm.
 
-You may ask how and why this is so. The physical world is unstable and volatile, governed by time and chance. It responds to signals, which is why information spreads rapidly through systems such as social media. Yet beyond this realm lies the spiritual, a domain of clarity, balance, and complete knowledge. In that realm, outcomes are not guessed. They are known. Probability does not exist there in the way it does here. What determines results in the physical is who holds authority in the spiritual. The two realms are interconnected. The physical is the womb through which the intentions of the spiritual are manifested. What is conceived in the unseen is eventually delivered in the seen.
+You may ask how and why this is so. The physical world is volatile, governed by time and chance. It responds to signals, which is why information spreads rapidly through systems such as social media. Yet beyond this realm lies the spiritual, a domain of clarity, balance, and complete knowledge. In that realm, outcomes are not guessed. They are known. Probability does not exist there in the way it does here. What determines results in the physical is who holds authority in the spiritual. The two realms are interconnected. The physical is the womb through which the intentions of the spiritual are manifested. What is conceived in the unseen is eventually delivered in the seen.
 
 What does this mean for you? It means your life did not begin at birth. Long before you entered this world, God had a need, a specific assignment that required your existence. In Isaiah, the Lord asked, “Who shall go for us?” That question still echoes today. God is not asking because He lacks knowledge. He is asking because He requires your agreement. Destiny is not forced upon you. It is entered into by alignment. Yet you cannot commit to what you do not understand. You cannot walk a path you have no awareness of. This is the tragedy of many lives. People move without direction, imitate without understanding, and pursue paths that were never assigned to them. They borrow the maps of others and wonder why they arrive at the wrong destinations.
 
